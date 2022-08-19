@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-**michojekunle/michojekunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **What's my current Role in tech?**</h2> 
+      { Web Developer, Frontend Engineer }
 
 Here are some ideas to get you started:
 

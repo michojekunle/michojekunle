@@ -2,14 +2,16 @@
 
 ### **What's my current Role in tech?**</h2> 
       { Web Developer, Frontend Engineer }
-
+<p>
+🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I am highly intrigued by software development and design, as well as all the technology it brings to life.I have extensive experience working both alone and as part of a team on often time-sensitive, challenging web development projects that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry, My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices.
+</p>
 
 
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I am highly intrigued by software development and design, as well as all the technology it brings to life.I have extensive experience working both alone and as part of a team on often time-sensitive, challenging web development projects that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry, My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices.
- <!-- I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.--></li>
+ <!--  <li>
+ I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li>-->
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>react.js & javascript, Firebase, Node.js, Express.js and PostgreSql</strong>.</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's)</li>
@@ -19,9 +21,7 @@
 </ul>
 
 <h2>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a><a href="https://twitter.com/MichaelOjekunl2"><img width="20" height="20" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F002%2F534%2F045%2Foriginal%2Fsocial-media-twitter-logo-blue-isolated-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Ftwitter-logo&tbnid=845NKwkR7YZbMM&vet=12ahUKEwiR5MyIjdr5AhUTRhoKHXntDy4QMygBegUIARDiAQ..i&docid=b8RJV3ciMYFhMM&w=1920&h=1920&q=twitter%20logo&ved=2ahUKEwiR5MyIjdr5AhUTRhoKHXntDy4QMygBegUIARDiAQ"></a> </p>
-
-
+<p><a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a></p>
 
 <h2> My Tools </h2>
 <p align="left">
@@ -37,17 +37,14 @@
    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50" width="50"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="50" width="50"/>
+  <img style="background-color: #fff; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="50" width="50"/>
-  <img src="https://www.opc-router.com/what-is-mongodb/" alt="mongodb" height="50" width="50"/>    
-        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="50" width="50"/>        
 </p>
 
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p>
 <h2> My Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&" alt="michojekunle" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p> <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide_border=true" alt="Stats" />
 

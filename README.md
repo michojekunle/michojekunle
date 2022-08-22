@@ -47,6 +47,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide_border=true" alt="Stats" /></p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p> 
-<p></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p> 
+
 <p> Thanks for visiting my Github Profile❤️ </p>

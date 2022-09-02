@@ -8,10 +8,10 @@
 
 
 <h2>⚡️ About Me</h2>
-
-<ul>
  <!--  <li>
  I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li> -->
+<ul>
+
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>react.js & javascript, Jquery, Firebase, Node.js, Express.js and PostgreSql</strong>.</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's)</li>
@@ -42,11 +42,11 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="50" width="50"/></code>        
 </p>
 
-<h2> My Stats </h2>
+ ## My Stats 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&" alt="michojekunle" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide_border=true" alt="Stats" /></p>
 
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p> 
 
-<p> Thanks for visiting my Github Profile❤️ </p>
+      {Thanks for visiting my Github Profile❤️}

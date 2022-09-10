@@ -42,8 +42,8 @@
  ## My Stats 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&" alt="michojekunle" /></p>
 
-<!--<p><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide_border=true" alt="Stats" /></p>-->
+<p><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide_border=true" alt="Stats" /></p>
 
- <!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p> -->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p>
 
       Thanks for visiting my Github Profile❤️

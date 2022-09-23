@@ -1,9 +1,9 @@
 ### <h2>Hey Fam👋❤️, I'm Michael Ojekunle <span>(AMD)</span></h2>
 
 ### **What's my current Role in tech?**</h2> 
-      { Web Developer, Frontend Engineer }
+      { Frontend Developer }
 <p>
-🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I am highly intrigued by software development and design, as well as all the technology it brings to life.I have extensive experience working both alone and as part of a team on often time-sensitive, challenging web development projects that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry, My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices.
+🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I am highly intrigued by software development and design, as well as all the technology it brings to life. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
 </p> 
 
 
@@ -13,8 +13,8 @@
 <ul>
 
   <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>react.js & javascript, Jquery, Firebase, Node.js, Express.js and PostgreSql</strong>.</li>
-  <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's)</li>
+  <li>👨‍💻 I work with <strong>React.js & javascript, Firebase</strong>.</li>
+  <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him /His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>🎉Fun Fact : I Love Challenges, I smile a lot, and I'm always ready to render help to anyone as much as I can.</li>

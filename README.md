@@ -21,7 +21,7 @@
 </ul>
 
 <h2>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a></p>
 
 <h2> My Tools </h2>
 <p align="left">

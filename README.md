@@ -13,7 +13,7 @@
 <ul>
 
   <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>React.js & javascript, Firebase</strong>.</li>
+  <li>👨‍💻 I work with <strong>React.js & Javascript</strong>.</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him /His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
@@ -42,6 +42,9 @@
  ## My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michojekunle&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![AMD's GitHub stats](https://github-readme-stats.vercel.app/api?username=michojekunle)](https://github.com/anuraghazra/github-readme-stats)
+[![AMD's GitHub stats](https://github-readme-stats.vercel.app/api?username=michojekunle)](https://github.com/anuraghazra/github-readme-stats);
+
+<a href="http://www.github.com/yhoungdev"><img src="https://activity-graph.herokuapp.com/graph?username=michojekunle&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
       Thanks for visiting my Github Profile❤️

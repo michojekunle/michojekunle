@@ -39,10 +39,10 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="50" width="50"/></code>        
 </p>
 
- ## My Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michojekunle&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
+ ## My Github Stats 
 <a href="http://www.github.com/michojekunle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+<a href="http://www.github.com/yhoungdev"><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="michojekunle's GitHub stats" /></a>
 
 <a href="http://www.github.com/michojekunle"><img src="https://activity-graph.herokuapp.com/graph?username=michojekunle&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

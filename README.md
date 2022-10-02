@@ -47,4 +47,6 @@
 <a href="http://www.github.com/michojekunle"><img src="https://activity-graph.herokuapp.com/graph?username=michojekunle&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
+[![](https://komarev.com/ghpvc/?username=michojekunle&color=14b8a6&label=Profile%20Views)](https://github.com/michojekunle/michojekunle)<br/>
+     
       Thanks for visiting my Github Profile❤️

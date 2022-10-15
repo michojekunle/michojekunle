@@ -16,7 +16,7 @@
   <li>👨‍💻 I work with <strong>React.js & Javascript</strong>.</li>
   <li>✨ Currently Learning <strong>Typescript, Next.js and Python</strong> 🤩🤩</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
-  <li>😄 Pronouns: He / Him /His</li>
+  <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>🎉Fun Fact : I Love Challenges, I smile a lot, and I'm always ready to render help to anyone as much as I can.</li>
 </ul>

@@ -1,6 +1,6 @@
-A### <h2>Hey Fam👋❤️, I'm Michael Ojekunle <span>(AMD)</span></h2>
+## <h2>Hey Fam👋❤️, I'm Michael Ojekunle <span>(AMD)</span></h2>
 
-### **What's my current Role in tech?**</h2> 
+## **What's my current Role in tech?**</h2> 
       { Web Developer, Frontend Engineer  }
 <p>
 🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I am highly intrigued by software development and design, as well as all the technology it brings to life. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
@@ -11,18 +11,20 @@ A### <h2>Hey Fam👋❤️, I'm Michael Ojekunle <span>(AMD)</span></h2>
  <!--  <li>
  I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li> -->
 <ul>
-
   <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>React.js & Javascript</strong>.</li>
   <li>✨ Currently Learning <strong>Typescript, Next.js and Python</strong> 🤩🤩</li>
+  <li>👨‍💻 I work with <strong>React.js & Javascript</strong>.</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
-  <li>🎉Fun Fact : I Love Challenges, I smile a lot, and I'm always ready to render help to anyone as much as I can.</li>
+  <li>🎉Fun Fact : I Love Challenges, I smile a lot and I'm always ready to render help to anyone as much as I can.</li>
 </ul>
 
 <h2>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a></p>
+<p>
+<a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
+<a href="https://twitter.com/MichaelOjekunl2"><img src="https://img.shields.io/badge/-AMD%20-blue?style=plastic&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
+</p>
 
 <h2> My Tools </h2>
 <p align="left">

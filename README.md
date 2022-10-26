@@ -16,7 +16,7 @@
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
-  <li>🎉Fun Fact : I Love Challenges, I smile a lot and I'm always ready to render help to anyone as much as I can.</li>
+  <li>🎉Fun Fact : I Love Challenges, I smile a lot and I'm always ready to render help to anyone as much as I can. </li>
 </ul>
 
 <h3>Connect with me</h3>
@@ -41,7 +41,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="50" width="50"/></code>        
 </p>
 
- ### My Github Stats 
+ ### My Github Stats   
 <a href="http://www.github.com/michojekunle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 <a href="http://www.github.com/michojekunle"><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="michojekunle's GitHub stats" /></a>

@@ -11,8 +11,8 @@
  I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li> -->
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>✨ Currently Learning <strong>Typescript, Next.js and Python</strong> 🤩🤩</li>
   <li>👨‍💻 I work with <strong>React.js & Javascript</strong>.</li>
+  <li>✨ Currently Learning <strong>Typescript, Next.js and Python</strong> 🤩🤩</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>

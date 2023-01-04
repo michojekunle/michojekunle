@@ -1,4 +1,4 @@
-## <h2>Hey Fam ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Michael Ojekunle <span>(AMD)</span></h2>
+## <h2>Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Michael Ojekunle <span>(AMD)</span></h2>
 ### **What's my current Role in tech?**
       { Web Developer, Frontend Engineer  }
 <p>
@@ -6,7 +6,7 @@
 </p> 
 
 
-<h3>⚡️ About Me</h3>
+<h4>⚡️ About Me</h4>
  <!--  <li>
  I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li> -->
 <ul>
@@ -20,13 +20,13 @@
   <li>🎉Fun Fact : I Love Challenges, I smile a lot </li>
 </ul>
 
-<h3>Connect with me</h3>
+<h4>Connect with me</h4>
 <p>
 <a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
 <a href="https://twitter.com/MichaelOjekunl2"><img src="https://img.shields.io/badge/-AMD%20-blue?style=plastic&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 </p>
 
-<h3> My Tools </h3>
+<h4>Skills </h4>
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30" width="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="30" width="30"/>

@@ -1,4 +1,4 @@
-## <h2>Hey Fam👋, I'm Michael Ojekunle <span>(AMD)</span></h2>
+## <h2>Hey Fam ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Michael Ojekunle <span>(AMD)</span></h2>
 ### **What's my current Role in tech?**
       { Web Developer, Frontend Engineer  }
 <p>
@@ -17,7 +17,7 @@
   <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
-  <li>🎉Fun Fact : I Love Challenges, I smile a lot and I'm always ready to render help to anyone as much as I can. </li>
+  <li>🎉Fun Fact : I Love Challenges, I smile a lot </li>
 </ul>
 
 <h3>Connect with me</h3>
@@ -28,17 +28,17 @@
 
 <h3> My Tools </h3>
 <p align="left">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" width="50" /></code>
- <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" width="50"/></code>
- <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"/></code>
-   <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="50" width="50"/></code>
-  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" width="50"/></code>
-  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ait="React" height="50" width="50" /> </code>
-   <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="50" width="50"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" width="50"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="50" width="50"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" width="50"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="50" width="50"/></code>        
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30" width="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="30" width="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ait="React" height="30" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="30" width="30"/>   
 </p>
 
  ### My Github Stats   

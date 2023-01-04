@@ -23,7 +23,7 @@
 <h3>Connect with me</h3>
 <p>
 <a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
-<a href="https://twitter.com/MichaelOjekunl2"><img src="https://img.shields.io/badge/-AMD%20-blue?style=plastic&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
+<a href="https://twitter.com/MichaelOjekunl2"><img src="https://img.shields.io/badge/-AMD%20-blue?style=plastic&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 </p>
 
 <h3> My Tools </h3>

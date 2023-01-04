@@ -2,11 +2,13 @@
 ### **What's my current Role in tech?**
       { Web Developer, Frontend Engineer  }
 <p>
-🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I am highly intrigued by software development and design, as well as all the technology it brings to life. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
+🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. <br/> <br/>
+
+I am highly intrigued by software development and design, as well as all the technology it brings to life. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
 </p> 
 
 
-<h4>⚡️ About Me</h4>
+<h3>⚡️ About Me</h3>
  <!--  <li>
  I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li> -->
 <ul>
@@ -17,16 +19,16 @@
   <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
-  <li>🎉Fun Fact : I Love Challenges, I smile a lot </li>
+  <li>🎉 Fun Fact : I Love Challenges, I smile a lot </li>
 </ul>
 
-<h4>Connect with me</h4>
+<h3>Connect with me</h3>
 <p>
 <a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/"><img src="https://img.shields.io/badge/-michael%20ojekunle%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
 <a href="https://twitter.com/MichaelOjekunl2"><img src="https://img.shields.io/badge/-AMD%20-blue?style=plastic&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 </p>
 
-<h4>Skills </h4>
+<h3>Skills </h3>
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30" width="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="30" width="30"/>

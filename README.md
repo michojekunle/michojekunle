@@ -1,6 +1,11 @@
 ## <h2>Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Michael Ojekunle <span>(AMD)</span></h2>
 ### **What's my current Role in tech?**
       { Web Developer, Frontend Engineer  }
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michojekunle" alt="michojekunle" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/MichaelOjekunl2" target="blank"><img src="https://img.shields.io/twitter/follow/MichaelOjekunl2?logo=twitter&style=for-the-badge" alt="michojekunle" /></a> </p>
+
 <p>
 🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. <br/> <br/>
 
@@ -14,7 +19,7 @@ I am highly intrigued by software development and design, as well as all the tec
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>React.js & Javascript</strong>.</li>
-  <li>✨ Currently Learning <strong>Typescript and Next.js</strong> 🤩🤩</li>
+  <li>✨ Currently Learning <strong>Java, Typescript and Next.js</strong> 🤩🤩</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
@@ -44,9 +49,13 @@ I am highly intrigued by software development and design, as well as all the tec
 </p>
 
  ### My Github Stats   
+
+
 <a href="http://www.github.com/michojekunle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 <a href="http://www.github.com/michojekunle"><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="michojekunle's GitHub stats" /></a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true&locale=en&layout=compact" alt="michojekunle" /></p>
 
 <a href="http://www.github.com/michojekunle"><img src="https://activity-graph.herokuapp.com/graph?username=michojekunle&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

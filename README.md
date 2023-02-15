@@ -2,8 +2,6 @@
 ### **What's my current Role in tech?**
       { Web Developer, Frontend Engineer  }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michojekunle" alt="michojekunle" /></a> </p>
-
 
 <p>
 🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. <br/> <br/>

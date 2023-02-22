@@ -20,6 +20,7 @@ I am highly intrigued by software development and design, as well as all the tec
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him / His</li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
+  <li>⚡ Check out some of the projects I've worked on <strong>[Shortly](https://shtly.netlify.app/), [YouTube 2.0](https://ytc-2.netlify.app/), [Bookmark Landing](https://bookmark-landing-page-amd.netlify.app/), [DGR](https://d-g-r.netlify.app/), [Where in the World](https://wiit-w.netlify.app/) </strong></li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
   <li>🎉 Fun Fact : I Love Challenges, I smile a lot </li>
 </ul>

@@ -55,12 +55,22 @@ I am highly intrigued by software development and design, as well as all the tec
 <p><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true&locale=en&layout=compact" alt="michojekunle" />
 </a></p>
 
+### Get In Touch
+<a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+
+
+
 <h3>Connect with me</h3>
 <p>
 <a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Ojekunle%20-blue?style=for-the-badge&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
 <a href="https://twitter.com/MichaelOjekunl2" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
-<a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/-amd_mich%20-black?style=for-the-badge&amp;labelColor=black&amp;logo=Instagram&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Instagram Badge"></a>
+<a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
 </p>
+
+
+  
 
 <br/>
 

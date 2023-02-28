@@ -55,6 +55,8 @@ I am highly intrigued by software development and design, as well as all the tec
 <p><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true&locale=en&layout=compact" alt="michojekunle" />
 </a></p>
 
+
+
 ### Get In Touch
 <a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 

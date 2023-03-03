@@ -18,7 +18,7 @@
   <li>👨‍💻 I work with <strong>React.js & Javascript</strong>.</li>
   <li>✨ Currently Learning <strong>Java, Typescript and Next.js</strong> 🤩🤩</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
-  <li>😄 Pronouns: He / Him / His</li>
+  <li>😄 Pronouns: He / Him / His </li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
   <li>⚡ Check out some of the projects I've worked on <strong><a href="https://shtly.netlify.app/">Shortly</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page </a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a> </strong></li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>

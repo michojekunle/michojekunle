@@ -20,7 +20,7 @@
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him / His </li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
-  <li>⚡ Check out some of the projects I've worked on <strong><a href="https://shtly.netlify.app/">Shortly</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page </a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a> <!-- <a href="https://my-calculator-application1.netlify.app/">Calculator</a>--> </strong></li>
+  <li>⚡ Check out some of the projects I've worked on <strong><a href="https://shtly.netlify.app/">Shortly</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page </a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a></strong></li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
   <li>🎉 Fun Fact : I Love Challenges, I smile a lot </li>
 </ul>
@@ -46,6 +46,7 @@
 
 
 #### SOFTWARE
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -53,10 +54,12 @@
 
 
 #### VERSION CONTROL
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### CLOUD
+
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -68,14 +71,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### DESIGN
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### IDE
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 #### OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 <!--
@@ -83,11 +91,14 @@
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
-
-
 #### Developer/Forums
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)-->
+
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+-->
 
 ### My Github Stats   
 
@@ -99,13 +110,9 @@
 </a></p>
 
 
-
 ### Get In Touch
 <a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/2349045156850?text=Hello%20I'm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-
-
-
 
 <h3>Connect with me</h3>
 <p>
@@ -113,10 +120,6 @@
 <a href="https://twitter.com/MichaelOjekunl2" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 <a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
 </p>
-
-
-  
-
 <br/>
 
 [![](https://komarev.com/ghpvc/?username=michojekunle&color=14b8a6&label=Profile%20Views)](https://github.com/michojekunle/michojekunle)<br/>

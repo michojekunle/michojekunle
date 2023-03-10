@@ -15,12 +15,12 @@
  I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li> -->
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>React.js & Nodejs</strong>.</li>
+  <li>👨‍💻 I work with <strong>React.js & Node.js</strong>.</li>
   <li>✨ Currently Learning <strong>Java, Typescript and Next.js</strong> 🤩🤩</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's )</li>
   <li>😄 Pronouns: He / Him / His </li>
   <li>💬 Ping me about anything <strong>Web Development</strong>.</li>
-  <li>⚡ Check out some of the projects I've worked on <strong><a href="https://shtly.netlify.app/">Shortly</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page </a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a></strong></li>
+  <li>⚡ Check out some of the projects I've worked on <strong><a href="https://shtly.netlify.app/">Shortly</a>, <a href="https://architect-website-nine.vercel.app/">Architect Website</a> <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page </a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a></strong></li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
   <li>🎉 Fun Fact : I Love Challenges, I smile a lot </li>
 </ul>

@@ -4,7 +4,7 @@
 
 
 <p>
-    🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. <br/> <br/
+    🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. <br/>
 
    I am highly intrigued by software development and design, as well as all the technology it brings to life. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
 </p> 
@@ -42,9 +42,10 @@
 
 #### SOFTWARE
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 #### VERSION CONTROL

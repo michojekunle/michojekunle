@@ -1,4 +1,4 @@
-## <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(AMD)</span></h2>
+## <h3>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(AMD)</span></h3>
 
       { Full Stack Web Developer, Frontend Engineer  }
 

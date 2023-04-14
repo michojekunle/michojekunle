@@ -26,7 +26,7 @@
 </ul>
 
 
-<h3>Skills </h3>
+<h3>Skills</h3>
 
 #### WEB
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

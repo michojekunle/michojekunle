@@ -70,6 +70,9 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+
 ### My Github Stats   
 
 <p><a href="http://www.github.com/michojekunle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a></p>
@@ -79,6 +82,8 @@
 <p><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true&locale=en&layout=compact" alt="michojekunle" />
 </a></p>
 
+### 🎧 Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31axc4g4psu2sxbqm2wrbv5jdmf4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Get In Touch.  
 <a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

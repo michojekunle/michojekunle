@@ -27,8 +27,6 @@
   <li>🎉 Fun Fact : I smile a lot 😊😉</li>
 </ul>
 
-
-
 <h3>Skills</h3>
 
 #### WEB

@@ -10,7 +10,6 @@
 
 <h3>⚡️ About Me</h3>
 
-#
 <a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
  <!--  <li>

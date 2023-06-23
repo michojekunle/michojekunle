@@ -4,7 +4,7 @@
 
 
 <p>
-    🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
+    🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry. 
 </p> 
 
 <a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>

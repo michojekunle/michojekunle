@@ -1,6 +1,6 @@
 ## <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(AMD)</span></h2>
 
-      { Full Stack Web Developer, Frontend Engineer }
+      { Full Stack Web Developer, Frontend Developer }
 
 <p>
     🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry. 

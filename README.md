@@ -14,7 +14,7 @@
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>Javascript, React.js, Next.js & Node.js</strong>.</li>
-  <li>✨ Currently Learning <strong>Java, Typescript and Next.js</strong> 🤩🤩</li>
+  <li>✨ Currently Learning <strong>Typescript and Next.js</strong> 🤩🤩</li>
   <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's)</li>
   <li>😄 Pronouns: He / Him / His </li>
   <li>💬 Ping me about anything <strong>Web Development</strong></li>

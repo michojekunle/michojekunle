@@ -65,10 +65,21 @@
 
 <p><a href="http://www.github.com/michojekunle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a></p>
 
-<a href="http://www.github.com/michojekunle"><img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="michojekunle's GitHub stats" /></a>
+<a href="http://www.github.com/michojekunle"></a>
 
-<p><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true&locale=en&layout=compact" alt="michojekunle" />
+<p><a href="#">
 </a></p>
+
+| My Github stats | My top languages |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="michojekunle's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true&locale=en&layout=compact" alt="michojekunle" /> | 
+
+| My commit history |
+|---|
+|[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michojekunle&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
+
+
 
 ---
 ### 🎧 Spotify Playing

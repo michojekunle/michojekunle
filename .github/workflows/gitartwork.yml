@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: michojekunle
             # Text on contribution graph 
-            text: AMD..MI.DEV
+            text: AMD.MI.DEV
        - uses: jasineri/simple-push-action@v1

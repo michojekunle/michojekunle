@@ -80,6 +80,10 @@
 |[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michojekunle&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
 
+### 🏆 Wakatime Stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 ---
@@ -97,38 +101,6 @@
 <a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
 </p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2013%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                779 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌆 Daytime                1108 commits        █████████░░░░░░░░░░░░░░░░   34.80 % 
-🌃 Evening                557 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-🌙 Night                  740 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               1 hr 23 mins        ███████████████████████░░   92.62 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/11/2023 18:40:49 UTC
-<!--END_SECTION:waka-->
 <br/>
 
 [![](https://komarev.com/ghpvc/?username=michojekunle&color=14b8a6&label=Profile%20Views)](https://github.com/michojekunle/michojekunle)<br/>

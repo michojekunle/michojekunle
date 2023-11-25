@@ -22,3 +22,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"

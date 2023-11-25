@@ -84,19 +84,17 @@
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%208%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-919.0%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                513 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-🌆 Daytime                856 commits         ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌃 Evening                852 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+🌞 Morning                514 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+🌆 Daytime                856 commits         ████████░░░░░░░░░░░░░░░░░   33.48 % 
+🌃 Evening                852 commits         ████████░░░░░░░░░░░░░░░░░   33.32 % 
+🌙 Night                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 ```
 
 
@@ -128,7 +126,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2023 18:38:00 UTC
+ Last Updated on 25/11/2023 08:16:50 UTC
 <!--END_SECTION:waka-->
 
 

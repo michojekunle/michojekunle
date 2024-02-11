@@ -10,7 +10,7 @@
 
 <h3>⚡️ About Me</h3>
  <!--  <li>  
- I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly, I will always put the commercial needs of your business at the forefront of everything I do, and the work I carry out will be consistent to a first-class standard.</li> -->
+ I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly.</li> -->
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>Javascript, React.js, Next.js & Node.js</strong>.</li>

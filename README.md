@@ -3,7 +3,7 @@
 ## <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(AMD)</span></h2>
       { Full Stack Web Developer, Frontend Developer }
 <p>
-    🦾 I am an Enthusiatic, curious and imaginative Web Developer, eager to contribute to team success through hard work, Attention to detail and Excellent Organizational Skills, always open to new and unconventional ideas. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry. 
+I'm a Full Stack web developer who loves creating awesome websites. I work with a team to make sure our projects are user-friendly and look great. I'm always learning new things to make our websites faster and reach more people around the world. I'm passionate about making the internet a better place, one cool website at a time! 
 </p> 
 
 <a href=""> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>

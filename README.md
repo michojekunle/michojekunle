@@ -62,11 +62,6 @@ I'm a Full stack web developer who loves creating awesome websites. I work with 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-  
-
-<p></p>
-
-
 | My Github stats | My top languages |
 |---|---|
 | <img src="https://github-readme-stats.vercel.app/api?username=michojekunle&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="michojekunle's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michojekunle&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true&locale=en&layout=compact" alt="michojekunle" /> | 

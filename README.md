@@ -78,7 +78,7 @@ I'm a Full stack web developer who loves creating awesome websites. I work with 
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -96,15 +96,15 @@ I'm a Full stack web developer who loves creating awesome websites. I work with 
 
 ```text
 💬 Programming Languages: 
-TypeScript               23 hrs 39 mins      ███████████████████░░░░░░   77.17 % 
-Other                    5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript               23 hrs 29 mins      ███████████████████░░░░░░   77.46 % 
+Other                    5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 6 mins       ████████████████████░░░░░   81.91 % 
-Chrome                   5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+VS Code                  24 hrs 46 mins      ████████████████████░░░░░   81.71 % 
+Chrome                   5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2024 18:40:31 UTC
+ Last Updated on 18/06/2024 18:41:44 UTC
 <!--END_SECTION:waka-->
 
 

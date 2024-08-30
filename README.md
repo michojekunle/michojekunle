@@ -78,7 +78,7 @@ I'm a Full stack web developer who loves creating awesome websites. I work with 
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C046%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -96,15 +96,15 @@ I'm a Full stack web developer who loves creating awesome websites. I work with 
 
 ```text
 💬 Programming Languages: 
-Other                    53 hrs 3 mins       ███████████████████░░░░░░   74.30 % 
-JavaScript               8 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Solidity                 5 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-TypeScript               3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Canva Design             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    47 hrs 8 mins       ██████████████████░░░░░░░   73.59 % 
+JavaScript               7 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Solidity                 4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+TypeScript               3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Canva Design             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Chrome                   53 hrs 23 mins      ███████████████████░░░░░░   74.76 % 
-VS Code                  18 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Chrome                   47 hrs 28 mins      ███████████████████░░░░░░   74.10 % 
+VS Code                  16 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2024 18:44:28 UTC
+ Last Updated on 30/08/2024 18:44:48 UTC
 <!--END_SECTION:waka-->
 
 

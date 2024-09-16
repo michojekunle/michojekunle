@@ -1,9 +1,9 @@
 <img src='/gitartwork.svg' alt='gitartwork'/>
 
 ## <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(AMD)</span></h2>
-      { Full Stack Web Developer, Frontend Developer }
+      { Smart Contract Developer, Frontend Developer }
 <p>
-I'm a Full stack web developer who loves creating awesome websites. I work with a team to make sure our projects are user-friendly and look great. I'm always learning new things to make our websites faster and reach more people around the world. I'm passionate about making the internet a better place, one cool website at a time! 
+I'm a frontend developer and smart contract writer, and I love building cool websites, smart contracts and decentralized apps. I work with a great team to make sure everything looks good, is easy to use, and runs smoothly. I'm always learning new stuff to improve performance and make things (web3 in particular) accessible to more people. My goal? To make the web and blockchain space better, one project at a time!
 </p> 
 
 <a href=""> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
@@ -14,11 +14,11 @@ I'm a Full stack web developer who loves creating awesome websites. I work with 
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>Javascript, Typescript, React.js, Next.js & Node.js</strong>.</li>
-  <li>✨ Currently Learning <strong>Solidity</strong> 🤩🤩</li>
-  <li>👯 I’m looking to collaborate on any web project(website, web app, PWA's, SPA's)</li>
+  <li>✨ Currently Learning <strong>Solidity</strong>, <strong>Rust</strong> 🤩🤩</li>
+  <li>👯 I’m looking to collaborate on any web2 || web3 project</li>
   <li>😄 Pronouns: He / Him / His </li>
-  <li>💬 Ping me about anything <strong>Web Development</strong></li>
-  <li>⚡ Check out some of the projects I've worked on <a href="https://midev.vercel.app/">My Portfolio</a>, <a href="https://manage-two-lime.vercel.app/">Manage Landing</a>, <a href="https://ecsw.vercel.app/">Ecwa Church Sango Web</a>, <a href='https://happie-web.vercel.app'>Happie Web</a>, <a href="https://shtly.netlify.app">Shortly</a>, <a href="https://architect-website-nine.vercel.app/">Architect Website</a>, <a href="https://the-road-delta.vercel.app/">The Road</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page</a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wnh.netlify.app/">Wine House</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a>, <a href="https://task-manager-amd.netlify.app/">Task Manager</a>, <a href="https://amdev.vercel.app">3D Portfolio</a>, <a href="https://sum-z.netlify.app">OpenAI Article Summarizer</a>, <a href="https://dall-e-clone-iota.vercel.app">DallE Clone</a>.</li>
+  <li>💬 Ping me about anything <strong>Web, Smart contract & dApp Development</strong></li>
+  <li>⚡ Check out some of the web projects I've worked on <a href="https://midev.vercel.app/">My Portfolio</a>, <a href="https://zk-vote-africa.on-fleek.app/">Zk Vote Africa</a>, <a href="https://manage-two-lime.vercel.app/">Manage Landing</a>, <a href="https://ecsw.vercel.app/">Ecwa Church Sango Web</a>, <a href='https://happie-web.vercel.app'>Happie Web</a>, <a href="https://shtly.netlify.app">Shortly</a>, <a href="https://architect-website-nine.vercel.app/">Architect Website</a>, <a href="https://the-road-delta.vercel.app/">The Road</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page</a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wnh.netlify.app/">Wine House</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a>, <a href="https://task-manager-amd.netlify.app/">Task Manager</a>, <a href="https://amdev.vercel.app">3D Portfolio</a>, <a href="https://sum-z.netlify.app">OpenAI Article Summarizer</a>, <a href="https://dall-e-clone-iota.vercel.app">DallE Clone</a>.</li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
   <li>🎉 Fun Fact : I smile a lot 😊😉</li>
 </ul>
@@ -38,9 +38,10 @@ I'm a Full stack web developer who loves creating awesome websites. I work with 
 
 #### SOFTWARE
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### VERSION CONTROL
 
@@ -132,8 +133,13 @@ Rust                     1 repo              ░░░░░░░░░░░�
 <a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/2349045156850?text=Hello%20I'm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
+### Read My Blog
+<a href="https://hashnode.com/@midev" target="_blank"><img src="[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#)" alt="AMD's Hashnode Badge"></a>
+<a href="https://medium.com/@michojekunle1" target="_blank"><img src="[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)" alt="AMD's Medium Badge"></a>
+
 <h3>Connect with me</h3>
 <p>
+<a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
 <a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Ojekunle%20-blue?style=for-the-badge&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
 <a href="https://twitter.com/MichaelOjekunl2" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 <a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>

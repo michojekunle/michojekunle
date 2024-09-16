@@ -1,7 +1,7 @@
 <img src='/gitartwork.svg' alt='gitartwork'/>
 
 ## <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(AMD)</span></h2>
-      { Smart Contract Developer, Frontend Developer }
+      { Smart Contract Writer, Frontend Developer }
 <p>
 I'm a frontend developer and smart contract writer, and I love building cool websites, smart contracts and decentralized apps. I work with a great team to make sure everything looks good, is easy to use, and runs smoothly. I'm always learning new stuff to improve performance and make things (web3 in particular) accessible to more people. My goal? To make the web and blockchain space better, one project at a time!
 </p> 
@@ -38,8 +38,8 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 
 #### SOFTWARE
 
-[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white)](#)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -134,8 +134,8 @@ Rust                     1 repo              ░░░░░░░░░░░�
 <a href="https://wa.me/2349045156850?text=Hello%20I'm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
 ### Read My Blog
-<a href="https://hashnode.com/@midev" target="_blank"><img src="[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#)" alt="AMD's Hashnode Badge"></a>
-<a href="https://medium.com/@michojekunle1" target="_blank"><img src="[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)" alt="AMD's Medium Badge"></a>
+<a href="https://medium.com/@michojekunle1" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="AMD's Medium Badge"></a>
+<a href="https://hashnode.com/@midev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="AMD's Hashnode Badge"></a>
 
 <h3>Connect with me</h3>
 <p>

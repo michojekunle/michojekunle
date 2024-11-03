@@ -13,8 +13,8 @@ I'm a frontend developer and smart contract writer, and I love building cool web
  I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly.</li> -->
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>Javascript, Typescript, React.js, Next.js & Node.js</strong>.</li>
-  <li>✨ Currently Learning <strong>Solidity</strong>, <strong>Rust</strong> 🤩🤩</li>
+  <li>👨‍💻 I work with <strong>Javascript, Typescript, React.js, Next.js</strong>.</li>
+  <li>✨ Currently Learning <strong>Solidity</strong>, <strong>Rust</strong>, <strong>Cairo</strong> 🤩🤩</li>
   <li>👯 I’m looking to collaborate on any web2 || web3 project</li>
   <li>😄 Pronouns: He / Him / His </li>
   <li>💬 Ping me about anything <strong>Web, Smart contract & dApp Development</strong></li>

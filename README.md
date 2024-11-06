@@ -23,6 +23,7 @@ I'm a frontend developer and smart contract writer, and I love building cool web
   <li>🎉 Fun Fact : I smile a lot 😊😉</li>
 </ul>
 
+
 <h3>Skills</h3>
 
 #### WEB
@@ -36,12 +37,14 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
+
 #### SOFTWARE
 
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white)](#)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 #### VERSION CONTROL
 

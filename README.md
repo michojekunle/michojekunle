@@ -6,11 +6,9 @@
 I'm a frontend developer and smart contract writer, and I love building cool websites, smart contracts and decentralized apps. I work with a great team to make sure everything looks good, is easy to use, and runs smoothly. I'm always learning new stuff to improve performance and make things (web3 in particular) accessible to more people. My goal? To make the web and blockchain space better, one project at a time!
 </p> 
 
-<a href=""> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href=""><img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/></a>
 
 <h3>⚡️ About Me</h3>
- <!--  <li>  
- I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. . If you hire me as your Web Developer, I assure you I will fit into your team quickly.</li> -->
 <ul>
   <li>✨ Turning ideas into real life products 24/7. </li>
   <li>👨‍💻 I work with <strong>Javascript, Typescript, React.js, Next.js</strong>.</li>
@@ -145,7 +143,6 @@ Rust                     1 repo              ░░░░░░░░░░░�
 <a href="https://twitter.com/MichaelOjekunl2" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 <a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
 </p>
-
 <br/>
 
 [![](https://komarev.com/ghpvc/?username=michojekunle&color=14b8a6&label=Profile%20Views)](https://github.com/michojekunle/michojekunle)<br/>

@@ -135,15 +135,14 @@ Rust                     1 repo              ░░░░░░░░░░░�
 <a href="https://wa.me/2349045156850?text=Hello%20I'm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
 ### Read My Blog
-<a href="https://medium.com/@michojekunle1" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="AMD's Medium Badge"></a>
+<a href="https://devvmichael.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="AMD's Medium Badge"></a>
 <a href="https://hashnode.com/@midev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="AMD's Hashnode Badge"></a>
 
 <h3>Connect with me</h3>
 <p>
-<a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
-<a href="https://www.linkedin.com/in/michael-ojekunle-651a8a232/" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Ojekunle%20-blue?style=for-the-badge&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
-<a href="https://twitter.com/MichaelOjekunl2" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
-<a href="https://instagram.com/amd_mich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
+<a href="https://instagram.com/amdevvvvv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
+<a href="https://www.linkedin.com/in/michael-ojekunle" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Ojekunle%20-blue?style=for-the-badge&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
+<a href="https://twitter.com/devvmichael" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 </p>
 <br/>
 

@@ -21,7 +21,6 @@ I'm a frontend developer and smart contract writer, and I love building cool web
   <li>🎉 Fun Fact : I smile a lot 😊😉</li>
 </ul>
 
-
 <h3>Skills</h3>
 
 #### WEB
@@ -35,14 +34,12 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-
 #### SOFTWARE
 
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white)](#)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 
 #### VERSION CONTROL
 
@@ -53,7 +50,6 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
 
 #### DATABASE
 
@@ -71,7 +67,6 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 | My Github Streak |
 |---|
 |<a href="http://www.github.com/michojekunle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michojekunle&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a> |
-
 
 | My commit history |
 |---|

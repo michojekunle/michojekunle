@@ -18,7 +18,7 @@ I'm a frontend developer and smart contract writer, and I love building cool web
   <li>💬 Ping me about anything <strong>web, smart contract & dApp development</strong></li>
   <li>⚡ Check out some of the web projects I've worked on <a href="https://midev.vercel.app/">My Portfolio</a>, <a href="https://zk-vote-africa.on-fleek.app/">Zk Vote Africa</a>, <a href="https://manage-two-lime.vercel.app/">Manage Landing</a>, <a href="https://ecsw.vercel.app/">Ecwa Church Sango Web</a>, <a href='https://happie-web.vercel.app'>Happie Web</a>, <a href="https://shtly.netlify.app">Shortly</a>, <a href="https://architect-website-nine.vercel.app/">Architect Website</a>, <a href="https://the-road-delta.vercel.app/">The Road</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page</a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wnh.netlify.app/">Wine House</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a>, <a href="https://task-manager-amd.netlify.app/">Task Manager</a>, <a href="https://amdev.vercel.app">3D Portfolio</a>, <a href="https://sum-z.netlify.app">OpenAI Article Summarizer</a>, <a href="https://dall-e-clone-iota.vercel.app">DallE Clone</a>.</li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
-  <li>🎉 Fun Fact : I smile a lot 😊😉</li>
+  <li>🎉 Fun Fact : I love challenges and I smile a lot 😊😉</li>
 </ul>
 
 <h3>Skills</h3>
@@ -30,9 +30,7 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
 
 #### SOFTWARE
 
@@ -41,24 +39,8 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### VERSION CONTROL
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-#### CLOUD
-
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### DATABASE
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### DESIGN
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 | My Github stats | My top languages |
 |---|---|

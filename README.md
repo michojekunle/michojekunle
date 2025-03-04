@@ -21,9 +21,8 @@ I'm a frontend developer and smart contract writer, and I love building cool web
   <li>🎉 Fun Fact : I love challenges and I smile a lot 😊😉</li>
 </ul>
 
-<h3>Skills</h3>
+<h3>MY STACK</h3>
 
-#### MY STACK
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 

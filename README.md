@@ -16,7 +16,7 @@ I'm a frontend developer and smart contract writer, and I love building cool web
   <li>👯 I’m looking to collaborate on any web2 || web3 project</li>
   <li>😄 Pronouns: He / Him / His </li>
   <li>💬 Ping me about anything <strong>web, smart contract & dApp development</strong></li>
-  <li>⚡ Check out some of the web projects I've worked on <a href="https://midev.vercel.app/">My Portfolio</a>, <a href="https://zk-vote-africa.on-fleek.app/">Zk Vote Africa</a>, <a href="https://manage-two-lime.vercel.app/">Manage Landing</a>, <a href="https://ecsw.vercel.app/">Ecwa Church Sango Web</a>, <a href='https://happie-web.vercel.app'>Happie Web</a>, <a href="https://shtly.netlify.app">Shortly</a>, <a href="https://architect-website-nine.vercel.app/">Architect Website</a>, <a href="https://the-road-delta.vercel.app/">The Road</a>, <a href="https://ytc-2.netlify.app/">YouTube 2.0</a>, <a href="https://bookmark-landing-page-amd.netlify.app/">Bookmark Landing Page</a>, <a href="https://d-g-r.netlify.app/">DGR</a>, <a href="https://wnh.netlify.app/">Wine House</a>, <a href="https://wiit-w.netlify.app/">Where in the World</a>, <a href="https://task-manager-amd.netlify.app/">Task Manager</a>, <a href="https://amdev.vercel.app">3D Portfolio</a>, <a href="https://sum-z.netlify.app">OpenAI Article Summarizer</a>, <a href="https://dall-e-clone-iota.vercel.app">DallE Clone</a>.</li>
+  <li>⚡ Check out some of the web projects I've worked on <a href="https://midev.vercel.app/">My Portfolio</a>, <a href="https://amdev.vercel.app">3D Portfolio</a>, <a href="https://sum-z.netlify.app">OpenAI Article Summarizer</a>, <a href="https://dall-e-clone-iota.vercel.app">DallE Clone</a>.</li>
   <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
   <li>🎉 Fun Fact : I love challenges and I smile a lot 😊😉</li>
 </ul>
@@ -24,13 +24,9 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 <h3>MY STACK</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)](#)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white)](#)
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)

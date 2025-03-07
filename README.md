@@ -84,13 +84,7 @@ Rust                     3 repos             ░░░░░░░░░░░�
 
 
  Last Updated on 06/03/2025 19:03:46 UTC
-<!--END_SECTION:waka-->
-
-
----
-### 🎧 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31axc4g4psu2sxbqm2wrbv5jdmf4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+<!--END_SECTION:waka--> 
 
 ### Get In Touch.  
 <a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -111,4 +105,4 @@ Rust                     3 repos             ░░░░░░░░░░░�
 [![](https://komarev.com/ghpvc/?username=michojekunle&color=14b8a6&label=Profile%20Views)](https://github.com/michojekunle/michojekunle)<br/>
      
      
-      Thanks for visiting my Github Profile❤️
+      Thanks for visiting my Github Profile ❤️

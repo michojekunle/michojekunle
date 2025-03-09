@@ -1,4 +1,4 @@
- name: gitartwork from a contribution graph
+ name: AMD gitartwork from a contribution graph
  on: 
    push:
    schedule:

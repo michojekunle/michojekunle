@@ -10,15 +10,9 @@ I'm a frontend developer and smart contract writer, and I love building cool web
 
 <h3>⚡️ About Me</h3>
 <ul>
-  <li>✨ Turning ideas into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>Javascript, Typescript, React.js, Next.js, Solidity </strong>.</li>
-  <li>✨ Currently Learning <strong>Rust</strong>, <strong>Cairo</strong> 🤩🤩</li>
-  <li>👯 I’m looking to collaborate on any web2 || web3 project</li>
-  <li>😄 Pronouns: He / Him / His </li>
-  <li>💬 Ping me about anything <strong>web, smart contract & dApp development</strong></li>
-  <li>⚡ Check out some of the web projects I've worked on <a href="https://midev.vercel.app/">My Portfolio</a>, <a href="https://amdev.vercel.app">3D Portfolio</a>, <a href="https://sum-z.netlify.app">OpenAI Article Summarizer</a>, <a href="https://dall-e-clone-iota.vercel.app">DallE Clone</a>.</li>
-  <li>📫 How to reach me <a href="mailto:michojekunle1@gmail.com">michojekunle1@gmail.com </a></li>
-  <li>🎉 Fun Fact : I love challenges and I smile a lot 😊😉</li>
+  <li>👨‍💻 I work with <strong>Js, Ts, React.js, Next.js, Solidity, Cairo</strong>.</li>
+  <li>✨ Currently Learning <strong>Rust</strong> 🤩🤩</li>
+  <li>🎉I love challenges and I smile a lot 😊😉</li>
 </ul>
 
 <h3>MY STACK</h3>

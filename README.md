@@ -3,7 +3,7 @@
 ## <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(A M D)</span></h2>
       { Frontend Developer, Smart Contract Writer, ZK Enthusiast }
 <p>
-I'm a frontend developer and smart contract writer, and I love building cool websites, smart contracts and decentralized app. I'm always learning new stuff to improve performance and make things (web3 in particular) accessible to more people. My goal? To make the web and blockchain space better, one project at a time!
+I'm a frontend developer and smart contract writer, and I love building cool websites, smart contracts and decentralized app. I'm always learning new stuff to improve performance and make things (web3 in particular) accessible to more people. <strong>My goal?</strong> To make the web and blockchain space better, one project at a time!
 </p> 
 
 <a href=""><img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/></a>

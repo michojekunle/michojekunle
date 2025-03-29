@@ -6,8 +6,6 @@ I love crafting beautiful **web experiences**, writing **efficient smart contrac
 
 Always learning, always building! 🚀
 
-<a href=""><img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/></a>
-
 <h3>⚡️ About Me</h3>
 
    - 👨‍💻 I work with <strong>Js, Ts, React.js, Next.js, Solidity, Cairo</strong>

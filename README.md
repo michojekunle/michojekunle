@@ -1,27 +1,31 @@
 <img src='/gitartwork.svg' alt='gitartwork'/>
 
-## <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michael Ojekunle <span>(A M D)</span></h2>
-      { Frontend Developer, Smart Contract Writer, ZK Enthusiast }
-<p>
-I'm a frontend developer and smart contract writer, and I love building cool websites, smart contracts and decentralized app. I'm always learning new stuff to improve performance and make things (web3 in particular) accessible to more people. <strong>My goal?</strong> To make the web and blockchain space better, one project at a time!
-</p> 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Michael Ojekunle (A M D)
+      { Frontend Developer, Smart Contract Writer, ZK Enthusiast }      
+I love crafting beautiful **web experiences**, writing **efficient smart contracts**, and exploring **Zero-Knowledge proofs**.  
+
+Always learning, always building! 🚀
 
 <a href=""><img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/></a>
 
 <h3>⚡️ About Me</h3>
-<ul>
-  <li>👨‍💻 I work with <strong>Js, Ts, React.js, Next.js, Solidity, Cairo</strong>.</li>
-  <li>✨ Currently Learning <strong>Rust</strong> 🤩🤩</li>
-  <li>🎉I love challenges and I smile a lot 😊😉</li>
-</ul>
+
+   - 👨‍💻 I work with <strong>Js, Ts, React.js, Next.js, Solidity, Cairo</strong>
+   - 🌍 Open-source contributor
+   - 📚 Currently exploring Zero Knowledge Proofs
+   - 🎯 Focused on making Web3 more **accessible & scalable**
+   - 🛠️ Currently building [Coinsafe](https://coinsafe.network)
+   - 🎉I love challenges and I smile a lot 😊😉
 
 <h3>MY STACK</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)](#)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white)](#) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)](#) ![Foundry](https://img.shields.io/badge/Foundry-20232A?style=for-the-badge&logo=foundry&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-181717?style=for-the-badge&logo=hardhat&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-%23323330.svg?style=for-the-badge&logo=ethers.js&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Get In Touch.  
+<a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/2349045156850?text=Hello%20I'm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
 | My Github stats | My top languages |
 |---|---|
@@ -83,20 +87,18 @@ Rust                     3 repos             ░░░░░░░░░░░�
  Last Updated on 28/03/2025 19:02:40 UTC
 <!--END_SECTION:waka--> 
 
-### Get In Touch.  
-<a href="mailto:michojekunle1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/2349045156850?text=Hello%20I'm"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
 ### Read My Blog
 <a href="https://devvmichael.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="AMD's Medium Badge"></a>
 <a href="https://hashnode.com/@midev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="AMD's Hashnode Badge"></a>
 
-<h3>Connect with me</h3>
+### Connect with me
 <p>
 <a href="https://instagram.com/amdevvvvv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AMD's Instagram Badge"></a>
 <a href="https://www.linkedin.com/in/michael-ojekunle" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Ojekunle%20-blue?style=for-the-badge&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
 <a href="https://twitter.com/devvmichael" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 </p>
+
 <br/>
 
 [![](https://komarev.com/ghpvc/?username=michojekunle&color=14b8a6&label=Profile%20Views)](https://github.com/michojekunle/michojekunle)<br/>

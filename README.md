@@ -96,10 +96,19 @@ C                        1 repo              ░░░░░░░░░░░�
 <a href="https://www.linkedin.com/in/michael-ojekunle" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Ojekunle%20-blue?style=for-the-badge&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's LinkedIn Badge"></a>
 <a href="https://twitter.com/devvmichael" target="_blank"><img src="https://img.shields.io/badge/-AMD%20-blue?style=for-the-badge&amp;labelColor=white&amp;logo=Twitter&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="AMD's Twitter Badge"></a>
 </p>
-
 <br/>
 
 [![](https://komarev.com/ghpvc/?username=michojekunle&color=14b8a6&label=Profile%20Views)](https://github.com/michojekunle/michojekunle)<br/>
      
      
       Thanks for visiting my Github Profile ❤️
+
+<a href="https://www.potatoesqueezy.xyz/app/profile?user=michojekunle" target="_blank" rel="noopener noreferrer">
+      <img 
+          src="https://coffee-major-wallaby-86.mypinata.cloud/ipfs/bafkreiaskbvndui55ycmqdu6ui6arfkhxmqgjvjcaw26myp4y76mmqtbyi" 
+          width="350" 
+          height="54" 
+          style="width: 250px; height: 54px;" 
+          alt="Potatoe Squeezy - Support GitHub contributors with crypto | Product Hunt" 
+      />
+</a>

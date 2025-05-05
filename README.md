@@ -2,15 +2,15 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Michael Ojekunle (A M D)
       { Frontend Developer, Smart Contract Writer, ZK Enthusiast }      
-I love crafting beautiful **web experiences**, writing **efficient smart contracts**, I'm currently exploring **Zero-Knowledge proofs**.  
+I love crafting beautiful **web experiences**, writing **efficient smart contracts**, I'm currently exploring **Zero-Knowledge proofs**, and Functional, Systems, Concurrent, and Scripting Programming Languages (Rust, Erlang, Haskell, Python).  
 
-Always learning, always building! 🚀
+Forever curious. Always building. And yes, I write too. 🚀✍️
 
 <h3>⚡️ About Me</h3>
 
-   - 👨‍💻 I work with <strong>Js, Ts, React.js, Next.js, Solidity, Cairo</strong>
+   - 👨‍💻 I work with <strong>Js, Ts, React.js, Next.js, Solidity, Rust</strong>
    - 🌍 Open-source contributor
-   - 📚 Currently exploring Zero Knowledge Proofs
+   - 📚 Currently exploring Zero Knowledge Proofs, and Functional, Systems, Concurrent, and Scripting Programming Languages (Rust, Erlang, Haskell, Python).
    - 🎯 Focused on making Web3 more **accessible & scalable**
    - 🛠️ Currently building [Coinsafe](https://coinsafe.network)
    - 🎉I love challenges and I smile a lot 😊😉

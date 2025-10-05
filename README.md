@@ -40,7 +40,34 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.9%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C627%20hrs%2042%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.1%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8721 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌆 Daytime                10566 commits       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+🌃 Evening                10127 commits       ████████░░░░░░░░░░░░░░░░░   30.94 % 
+🌙 Night                  3316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    25 hrs 29 mins      ██████████████████░░░░░░░   71.50 % 
+TypeScript               9 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+
+🔥 Editors: 
+Chrome                   26 hrs 31 mins      ███████████████████░░░░░░   74.41 % 
+VS Code                  9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -55,7 +82,7 @@ C                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 19:03:49 UTC
+ Last Updated on 05/10/2025 19:00:00 UTC
 <!--END_SECTION:waka--> 
 
 

@@ -2,7 +2,9 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Michael Ojekunle (A M D)
       { Frontend Developer, Smart Contract Writer, ZK Enthusiast }      
-I love crafting beautiful **web experiences**, writing **efficient smart contracts**, I'm currently exploring **Zero-Knowledge proofs**, and Functional, Systems, Concurrent, and Scripting Programming Languages (Rust, Erlang, Haskell, Python).  
+I love crafting beautiful **web experiences**, writing **efficient smart contracts**.
+
+<!--I'm currently exploring **Zero-Knowledge proofs**, and Functional, Systems, Concurrent, and Scripting Programming Languages (Rust, Erlang, Haskell, Python).  !-->
 
 Forever curious. Always building. And yes, I write too. 🚀✍️
 

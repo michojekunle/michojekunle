@@ -42,7 +42,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C085%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C088%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,7 +50,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 🌞 Morning                10777 commits       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-🌆 Daytime                13483 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌆 Daytime                13488 commits       ████████░░░░░░░░░░░░░░░░░   32.46 % 
 🌃 Evening                13168 commits       ████████░░░░░░░░░░░░░░░░░   31.69 % 
 🌙 Night                  4126 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
@@ -60,12 +60,12 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    19 hrs 11 mins      █████████████████░░░░░░░░   69.71 % 
-TypeScript               8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Other                    20 hrs 45 mins      ██████████████████░░░░░░░   72.51 % 
+TypeScript               7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 
 🔥 Editors: 
-Arc                      21 hrs 18 mins      ███████████████████░░░░░░   77.44 % 
-Chrome                   6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Arc                      22 hrs 53 mins      ████████████████████░░░░░   79.94 % 
+Chrome                   5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +81,7 @@ Clarity                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 19:11:47 UTC
+ Last Updated on 29/01/2026 19:19:08 UTC
 <!--END_SECTION:waka--> 
 
 

@@ -42,7 +42,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C203%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C210%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,12 +60,12 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    46 hrs 24 mins      █████████████████████████   99.50 % 
-TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Other                    42 hrs 31 mins      █████████████████████████   99.46 % 
+TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Arc                      33 hrs 45 mins      ██████████████████░░░░░░░   72.36 % 
-Antigravity              12 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Arc                      29 hrs 6 mins       █████████████████░░░░░░░░   68.07 % 
+Antigravity              13 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.93 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +81,7 @@ Clarity                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2026 19:08:15 UTC
+ Last Updated on 22/02/2026 19:09:43 UTC
 <!--END_SECTION:waka--> 
 
 

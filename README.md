@@ -42,17 +42,17 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C210%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C213%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.09%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12208 commits       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-🌆 Daytime                15532 commits       ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌃 Evening                15259 commits       ████████░░░░░░░░░░░░░░░░░   32.03 % 
-🌙 Night                  4639 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+🌞 Morning                12215 commits       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌆 Daytime                15544 commits       ████████░░░░░░░░░░░░░░░░░   32.57 % 
+🌃 Evening                15299 commits       ████████░░░░░░░░░░░░░░░░░   32.06 % 
+🌙 Night                  4663 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 ```
 
 
@@ -60,12 +60,11 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    42 hrs 31 mins      █████████████████████████   99.46 % 
-TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Other                    41 hrs 16 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Arc                      29 hrs 6 mins       █████████████████░░░░░░░░   68.07 % 
-Antigravity              13 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.93 % 
+Arc                      27 hrs 30 mins      █████████████████░░░░░░░░   66.65 % 
+Antigravity              13 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.35 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +80,7 @@ Clarity                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2026 19:09:43 UTC
+ Last Updated on 23/02/2026 19:49:34 UTC
 <!--END_SECTION:waka--> 
 
 

@@ -14,7 +14,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
    - 🌍 Open-source contributor
    - 📚 Currently exploring Zero Knowledge Proofs, and Systems, and Scripting Programming Languages (Rust, Python).
    - 🎯 Focused on making Web3 more **accessible & scalable**
-   - 🛠️ Currently building [Coinsafe](https://coinsafe.network)
+   - 🛠️ Currently building [CreateStacksApp](https://create-stacksapp.vercel.app), [Coinsafe](https://coinsafe.network)
    - 🎉I love challenges, and I smile a lot 😊😉
 
 <h3>MY STACK</h3>

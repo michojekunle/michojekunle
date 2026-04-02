@@ -12,9 +12,9 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
    - 👨‍💻 I work with <strong>Js, Ts, React.js, Next.js, Solidity, Rust</strong>
    - 🌍 Open-source contributor
-   - 📚 Currently exploring Zero Knowledge Proofs, and Systems, and Scripting Programming Languages (Rust, Python).
+   - 📚 Currently exploring Zero Knowledge Proofs, Systems, and Scripting Programming Languages (Rust, Python).
    - 🎯 Focused on making Web3 more **accessible & scalable**
-   - 🛠️ Currently building [Zamir](https://wwww.zamir.app) [CreateStacksApp](https://create-stacksapp.vercel.app), [Coinsafe](https://coinsafe.network)
+   - 🛠️ Currently building [Zamir](https://wwww.zamir.app), [CreateStacksApp](https://create-stacksapp.vercel.app), [Coinsafe](https://coinsafe.network)
    - 🎉I love challenges, and I smile a lot 😊😉
 
 <h3>MY STACK</h3>

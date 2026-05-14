@@ -42,36 +42,9 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C729%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C733%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.03%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                13251 commits       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-🌆 Daytime                16841 commits       ████████░░░░░░░░░░░░░░░░░   32.21 % 
-🌃 Evening                17047 commits       ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌙 Night                  5152 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    25 hrs 8 mins       ██████████████░░░░░░░░░░░   55.45 % 
-TypeScript               12 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-C++                      4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Shell                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-
-🔥 Editors: 
-Chrome                   24 hrs 27 mins      █████████████░░░░░░░░░░░░   53.93 % 
-Antigravity              11 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Unknown Editor           9 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-VS Code                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.04%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
@@ -86,7 +59,7 @@ Cairo                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 20:31:32 UTC
+ Last Updated on 14/05/2026 20:27:46 UTC
 <!--END_SECTION:waka--> 
 
 

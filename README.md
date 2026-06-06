@@ -42,7 +42,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C918%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C932%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.06%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,34 +60,34 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-TypeScript               23 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.97 % 
-Other                    22 hrs 35 mins      ███████████░░░░░░░░░░░░░░   43.94 % 
-Dart                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-JavaScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other                    25 hrs 58 mins      ████████████░░░░░░░░░░░░░   49.42 % 
+TypeScript               20 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
+Dart                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 23 mins      ███████████████░░░░░░░░░░   61.09 % 
-Claude Code              13 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Antigravity              4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-VS Code                  1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Chrome                   29 hrs 49 mins      ██████████████░░░░░░░░░░░   56.73 % 
+Claude Code              12 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Antigravity              6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+VS Code                  3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 Arc                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               81 repos            ██████████░░░░░░░░░░░░░░░   38.76 % 
-JavaScript               59 repos            ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Solidity                 15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               82 repos            ██████████░░░░░░░░░░░░░░░   39.05 % 
+JavaScript               59 repos            ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Solidity                 15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 Cairo                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 
 
 
- Last Updated on 05/06/2026 20:35:52 UTC
+ Last Updated on 06/06/2026 20:03:47 UTC
 <!--END_SECTION:waka--> 
 
 

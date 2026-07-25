@@ -42,15 +42,17 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.88%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C187%20hrs%2022%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.03%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13852 commits       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-🌆 Daytime                17243 commits       ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌃 Evening                17708 commits       ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌙 Night                  5320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌞 Morning                13862 commits       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌆 Daytime                17262 commits       ████████░░░░░░░░░░░░░░░░░   31.86 % 
+🌃 Evening                17726 commits       ████████░░░░░░░░░░░░░░░░░   32.72 % 
+🌙 Night                  5326 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
 
@@ -58,18 +60,18 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 21 mins      █████████████░░░░░░░░░░░░   52.44 % 
-TypeScript               19 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.51 % 
-Markdown                 2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Fork                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Dart                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    30 hrs 14 mins      ██████████████░░░░░░░░░░░   54.38 % 
+TypeScript               16 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.39 % 
+Fork                     2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Markdown                 2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+CSS                      1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Chrome                   37 hrs 14 mins      █████████████████░░░░░░░░   68.90 % 
-Antigravity Desktop      5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Antigravity              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-VS Code                  3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Claude Code              2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Chrome                   37 hrs 31 mins      █████████████████░░░░░░░░   67.48 % 
+Antigravity Desktop      6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Antigravity              5 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+VS Code                  3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Claude Code              2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +87,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:12:03 UTC
+ Last Updated on 25/07/2026 19:56:17 UTC
 <!--END_SECTION:waka--> 
 
 

@@ -42,7 +42,63 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C572%20hrs%2054%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2011%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.24%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                13895 commits       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+🌆 Daytime                17358 commits       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌃 Evening                17856 commits       ████████░░░░░░░░░░░░░░░░░   32.79 % 
+🌙 Night                  5347 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    17 hrs              █████████████░░░░░░░░░░░░   52.76 % 
+TypeScript               7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Markdown                 3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Rust                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Fork                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+
+🔥 Editors: 
+Chrome                   22 hrs 7 mins       █████████████████░░░░░░░░   68.63 % 
+Antigravity              2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Claude Code              2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+VS Code                  2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Antigravity Desktop      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 52 mins (36.81%)
+
+✍️ 3,574 lines written by AI, 239 lines written by hand (93.73% AI-written)
+
+🔤 197,139,419 Input Tokens, 299,810 Output Tokens
+
+💵 $560.06 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 276 AI Prompts
+
+Sonnet                   3,115 lines         ████████████████████░░░░░   80.51 % 
+Gemini                   457 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Antigravity-Desktop      297 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.73% of written lines came from AI
+📝 Concise Prompter — average 387 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 8.08% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -57,7 +113,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:38:05 UTC
+ Last Updated on 07/08/2026 19:46:36 UTC
 <!--END_SECTION:waka--> 
 
 

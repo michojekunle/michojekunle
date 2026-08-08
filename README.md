@@ -51,10 +51,10 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13895 commits       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-🌆 Daytime                17358 commits       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌞 Morning                13895 commits       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌆 Daytime                17358 commits       ████████░░░░░░░░░░░░░░░░░   31.87 % 
 🌃 Evening                17856 commits       ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌙 Night                  5347 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+🌙 Night                  5351 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
 
@@ -62,42 +62,42 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    17 hrs              █████████████░░░░░░░░░░░░   52.76 % 
-TypeScript               7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Markdown                 3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Rust                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Fork                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other                    19 hrs 45 mins      █████████████░░░░░░░░░░░░   52.77 % 
+TypeScript               7 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Markdown                 5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Rust                     3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Fork                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 7 mins       █████████████████░░░░░░░░   68.63 % 
-Antigravity              2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Claude Code              2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-VS Code                  2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Antigravity Desktop      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Chrome                   26 hrs 40 mins      ██████████████████░░░░░░░   71.21 % 
+VS Code                  3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Antigravity              2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Claude Code              2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Antigravity Desktop      1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 52 mins (36.81%)
+⏱ AI Coding Time: 11 hrs 59 mins (32.03%)
 
-✍️ 3,574 lines written by AI, 239 lines written by hand (93.73% AI-written)
+✍️ 3,558 lines written by AI, 838 lines written by hand (80.94% AI-written)
 
-🔤 197,139,419 Input Tokens, 299,810 Output Tokens
+🔤 193,483,383 Input Tokens, 281,099 Output Tokens
 
-💵 $560.06 Estimated AI Cost This Week
+💵 $552.56 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 276 AI Prompts
+🧠 16 AI Sessions, 429 AI Prompts
 
-Sonnet                   3,115 lines         ████████████████████░░░░░   80.51 % 
-Gemini                   457 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Antigravity-Desktop      297 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Sonnet                   3,112 lines         ████████████████████░░░░░   80.77 % 
+Gemini                   457 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Antigravity-Desktop      284 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.73% of written lines came from AI
-📝 Concise Prompter — average 387 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 8.08% of changed lines were hand-edited
+🤖 AI-Driven — 80.94% of written lines came from AI
+📝 Concise Prompter — average 265 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
+🚀 High AI Trust — 22.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +113,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:46:36 UTC
+ Last Updated on 08/08/2026 19:26:42 UTC
 <!--END_SECTION:waka--> 
 
 

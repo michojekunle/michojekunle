@@ -42,18 +42,18 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C602%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C606%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-266%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-269%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.28%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13913 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌆 Daytime                17386 commits       ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌃 Evening                17904 commits       ████████░░░░░░░░░░░░░░░░░   32.81 % 
+🌞 Morning                13913 commits       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌆 Daytime                17398 commits       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌃 Evening                17905 commits       ████████░░░░░░░░░░░░░░░░░   32.81 % 
 🌙 Night                  5360 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 ```
 
@@ -62,42 +62,42 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    32 hrs 44 mins      █████████████░░░░░░░░░░░░   51.74 % 
-Rust                     14 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-TypeScript               9 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Fork                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Markdown                 2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    29 hrs 12 mins      █████████████░░░░░░░░░░░░   51.96 % 
+Rust                     13 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+TypeScript               8 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Markdown                 2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Fork                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Chrome                   44 hrs 49 mins      ██████████████████░░░░░░░   70.85 % 
-VS Code                  8 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Claude Code              6 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Antigravity              1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Antigravity Desktop      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Chrome                   38 hrs 59 mins      █████████████████░░░░░░░░   69.36 % 
+VS Code                  7 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Claude Code              5 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Antigravity              1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Antigravity Desktop      1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 14 mins (22.51%)
+⏱ AI Coding Time: 14 hrs 5 mins (25.06%)
 
-✍️ 5,303 lines written by AI, 2,155 lines written by hand (71.1% AI-written)
+✍️ 5,282 lines written by AI, 1,674 lines written by hand (75.93% AI-written)
 
-🔤 16,329,602 Input Tokens, 469,316 Output Tokens
+🔤 9,946,904 Input Tokens, 455,239 Output Tokens
 
-💵 $116.74 Estimated AI Cost This Week
+💵 $103.83 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 257 AI Prompts
+🧠 14 AI Sessions, 254 AI Prompts
 
-Sonnet                   7,433 lines         ████████████████████████░   97.46 % 
-Gemini                   168 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Sonnet                   7,408 lines         ████████████████████████░   97.40 % 
+Gemini                   172 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 GPT                      26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.1% of written lines came from AI
-📄 Detailed Prompter — average 1,100 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 41.18% of changed lines were hand-edited
+🤖 AI-Driven — 75.93% of written lines came from AI
+📄 Detailed Prompter — average 1,094 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 34.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +113,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 19:14:33 UTC
+ Last Updated on 16/08/2026 19:11:36 UTC
 <!--END_SECTION:waka--> 
 
 

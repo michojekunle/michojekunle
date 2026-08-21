@@ -52,8 +52,8 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 🌞 Morning                13945 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌆 Daytime                17408 commits       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌃 Evening                17951 commits       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌆 Daytime                17409 commits       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+🌃 Evening                17958 commits       ████████░░░░░░░░░░░░░░░░░   32.84 % 
 🌙 Night                  5374 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
@@ -62,43 +62,42 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 4 mins       ███████████████░░░░░░░░░░   60.36 % 
-TypeScript               6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Rust                     6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Fork                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Other                    24 hrs 20 mins      ████████████████░░░░░░░░░   64.16 % 
+TypeScript               6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Rust                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Fork                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 41 mins      ██████████████████░░░░░░░   73.38 % 
-Antigravity Desktop      5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-VS Code                  3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Antigravity              2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Claude Code              47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Chrome                   28 hrs 52 mins      ███████████████████░░░░░░   76.11 % 
+Antigravity Desktop      5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Antigravity              2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+VS Code                  39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 50 mins (29.73%)
+⏱ AI Coding Time: 12 hrs 1 min (31.71%)
 
-✍️ 2,468 lines written by AI, 940 lines written by hand (72.42% AI-written)
+✍️ 2,737 lines written by AI, 126 lines written by hand (95.6% AI-written)
 
-🔤 1,263,518 Input Tokens, 62,476 Output Tokens
+🔤 669,482 Input Tokens, 37,323 Output Tokens
 
-💵 $16.22 Estimated AI Cost This Week
+💵 $8.95 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 280 AI Prompts
+🧠 13 AI Sessions, 234 AI Prompts
 
-Gemini                   1,766 lines         ████████████████░░░░░░░░░   64.43 % 
-Sonnet                   938 lines           █████████░░░░░░░░░░░░░░░░   34.22 % 
-GPT                      26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Antigravity-Desktop      11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Gemini                   2,095 lines         █████████████████░░░░░░░░   69.37 % 
+Sonnet                   914 lines           ████████░░░░░░░░░░░░░░░░░   30.26 % 
+Antigravity-Desktop      11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.42% of written lines came from AI
-📄 Detailed Prompter — average 955 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 33.65% of changed lines were hand-edited
+🤖 AI-Driven — 95.6% of written lines came from AI
+📝 Concise Prompter — average 208 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 4.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +113,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:27:35 UTC
+ Last Updated on 21/08/2026 19:27:24 UTC
 <!--END_SECTION:waka--> 
 
 

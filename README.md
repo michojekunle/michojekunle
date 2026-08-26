@@ -62,39 +62,39 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 23 mins      ██████████████████░░░░░░░   72.86 % 
-Fork                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Rust                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-TypeScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Other                    20 hrs 57 mins      ██████████████████████░░░   86.03 % 
+Rust                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Fork                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+TypeScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 31 mins      █████████████████████░░░░   85.23 % 
-Antigravity Desktop      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Antigravity              1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Chrome                   23 hrs 15 mins      ████████████████████████░   95.48 % 
+Antigravity Desktop      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Antigravity              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 20 mins (17.2%)
+⏱ AI Coding Time: 58 mins (4.0%)
 
-✍️ 613 lines written by AI, 99 lines written by hand (86.1% AI-written)
+✍️ 319 lines written by AI, 99 lines written by hand (76.32% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 89 AI Prompts
+🧠 3 AI Sessions, 14 AI Prompts
 
-Gemini                   653 lines           █████████████████████████   100.00 % 
+Gemini                   329 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.1% of written lines came from AI
-📝 Concise Prompter — average 210 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 14.53% of changed lines were hand-edited
+🤖 AI-Driven — 76.32% of written lines came from AI
+📄 Detailed Prompter — average 559 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 25.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +110,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:30:17 UTC
+ Last Updated on 26/08/2026 20:51:48 UTC
 <!--END_SECTION:waka--> 
 
 

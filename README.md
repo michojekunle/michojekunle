@@ -42,19 +42,19 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C617%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C617%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.30%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13945 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌆 Daytime                17409 commits       ████████░░░░░░░░░░░░░░░░░   31.83 % 
-🌃 Evening                17958 commits       ████████░░░░░░░░░░░░░░░░░   32.84 % 
-🌙 Night                  5374 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌞 Morning                13950 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌆 Daytime                17412 commits       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+🌃 Evening                17963 commits       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌙 Night                  5376 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
 
@@ -62,39 +62,39 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 57 mins      ██████████████████████░░░   86.03 % 
-Rust                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Fork                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-TypeScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    20 hrs 18 mins      █████████████████████░░░░   83.85 % 
+Fork                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Rust                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Dart                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 15 mins      ████████████████████████░   95.48 % 
-Antigravity Desktop      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Antigravity              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Chrome                   22 hrs 56 mins      ████████████████████████░   94.69 % 
+Antigravity Desktop      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+VS Code                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Antigravity              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (4.0%)
+⏱ AI Coding Time: 1 hr 11 mins (4.89%)
 
-✍️ 319 lines written by AI, 99 lines written by hand (76.32% AI-written)
+✍️ 322 lines written by AI, 99 lines written by hand (76.48% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 14 AI Prompts
+🧠 4 AI Sessions, 15 AI Prompts
 
-Gemini                   329 lines           █████████████████████████   100.00 % 
+Gemini                   332 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.32% of written lines came from AI
-📄 Detailed Prompter — average 559 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 25.23% of changed lines were hand-edited
+🤖 AI-Driven — 76.48% of written lines came from AI
+📄 Detailed Prompter — average 526 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 25.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +110,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:51:48 UTC
+ Last Updated on 28/08/2026 02:36:13 UTC
 <!--END_SECTION:waka--> 
 
 

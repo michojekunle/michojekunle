@@ -42,7 +42,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C621%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C621%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%209%20mins-blue?style=flat)
 
@@ -62,24 +62,24 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 25 mins      ████████████████████░░░░░   80.71 % 
-TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Fork                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Dart                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Rust                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    18 hrs 35 mins      ████████████████████░░░░░   80.66 % 
+TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Fork                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Dart                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Rust                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 13 mins      ████████████████████████░   95.67 % 
-Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Chrome                   21 hrs 46 mins      ████████████████████████░   94.48 % 
+Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Arc                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (5.64%)
+⏱ AI Coding Time: 1 hr 25 mins (6.2%)
 
 ✍️ 285 lines written by AI, 17 lines written by hand (94.37% AI-written)
 
@@ -112,7 +112,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:36:38 UTC
+ Last Updated on 31/08/2026 23:19:11 UTC
 <!--END_SECTION:waka--> 
 
 

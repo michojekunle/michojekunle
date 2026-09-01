@@ -51,10 +51,10 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13950 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌆 Daytime                17412 commits       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+🌞 Morning                13948 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌆 Daytime                17411 commits       ████████░░░░░░░░░░░░░░░░░   31.83 % 
 🌃 Evening                17965 commits       ████████░░░░░░░░░░░░░░░░░   32.84 % 
-🌙 Night                  5377 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌙 Night                  5376 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
 
@@ -62,24 +62,24 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 35 mins      ████████████████████░░░░░   80.66 % 
-TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Fork                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Dart                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Rust                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    23 hrs 11 mins      █████████████████████░░░░   83.88 % 
+TypeScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Fork                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Dart                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Rust                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 46 mins      ████████████████████████░   94.48 % 
-Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Antigravity              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Arc                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Chrome                   17 hrs 18 mins      ████████████████░░░░░░░░░   62.58 % 
+Arc                      9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Antigravity              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (6.2%)
+⏱ AI Coding Time: 1 hr 25 mins (5.17%)
 
 ✍️ 285 lines written by AI, 17 lines written by hand (94.37% AI-written)
 
@@ -112,7 +112,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 23:19:11 UTC
+ Last Updated on 01/09/2026 21:34:01 UTC
 <!--END_SECTION:waka--> 
 
 

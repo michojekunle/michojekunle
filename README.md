@@ -42,7 +42,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C621%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C622%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%209%20mins-blue?style=flat)
 
@@ -62,14 +62,14 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 29 mins      ████████████████████████░   97.68 % 
-Dart                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Fork                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    13 hrs 55 mins      █████████████████████░░░░   82.65 % 
+Fork                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Dart                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Arc                      13 hrs 11 mins      ████████████████████████░   95.53 % 
-Chrome                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Arc                      13 hrs 24 mins      ████████████████████░░░░░   79.66 % 
+Chrome                   3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:50:20 UTC
+ Last Updated on 06/09/2026 20:55:04 UTC
 <!--END_SECTION:waka--> 
 
 

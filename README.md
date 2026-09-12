@@ -52,7 +52,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 🌞 Morning                13967 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌆 Daytime                17432 commits       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+🌆 Daytime                17439 commits       ████████░░░░░░░░░░░░░░░░░   31.84 % 
 🌃 Evening                17982 commits       ████████░░░░░░░░░░░░░░░░░   32.83 % 
 🌙 Night                  5384 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
@@ -62,22 +62,24 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 12 mins       ███████████████░░░░░░░░░░   59.65 % 
-Fork                     3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Rust                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Dart                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    12 hrs 38 mins      ███████████████░░░░░░░░░░   61.30 % 
+Fork                     4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Rust                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Dart                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 52 mins      █████████████████████░░░░   83.36 % 
-Arc                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Chrome                   19 hrs 11 mins      ███████████████████████░░   93.12 % 
+VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Arc                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Antigravity              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (5.8%)
+⏱ AI Coding Time: 1 hr 4 mins (5.23%)
 
 ✍️ 38 lines written by AI, 87 lines written by hand (30.4% AI-written)
 
@@ -85,13 +87,13 @@ Codex Vscode             11 mins             ░░░░░░░░░░░�
 
 💵 $3.18 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 17 AI Prompts
 
 GPT                      38 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 30.4% of written lines came from AI
-📚 Verbose Prompter — average 2,005 characters per prompt
+📄 Detailed Prompter — average 789 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 72.46% of changed lines were hand-edited
 ```
@@ -109,7 +111,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:30:14 UTC
+ Last Updated on 12/09/2026 21:01:50 UTC
 <!--END_SECTION:waka--> 
 
 

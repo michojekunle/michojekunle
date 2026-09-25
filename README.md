@@ -42,19 +42,19 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C641%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-289%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.66%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14038 commits       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌆 Daytime                17524 commits       ████████░░░░░░░░░░░░░░░░░   31.81 % 
-🌃 Evening                18101 commits       ████████░░░░░░░░░░░░░░░░░   32.85 % 
-🌙 Night                  5432 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+🌞 Morning                14116 commits       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌆 Daytime                17524 commits       ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌃 Evening                18101 commits       ████████░░░░░░░░░░░░░░░░░   32.81 % 
+🌙 Night                  5432 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 
 
@@ -62,57 +62,57 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    34 hrs 45 mins      ████████████████████░░░░░   80.12 % 
-TypeScript               3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Markdown                 2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Fork                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-SQL                      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    36 hrs 5 mins       ███████████████████░░░░░░   75.82 % 
+TypeScript               3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Rust                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Markdown                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Fork                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Chrome                   37 hrs 3 mins       █████████████████████░░░░   85.44 % 
-Antigravity Desktop      3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-VS Code                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Codex Vscode             41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Antigravity CLI          29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Chrome                   35 hrs 52 mins      ███████████████████░░░░░░   75.38 % 
+Arc                      4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+VS Code                  3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Antigravity Desktop      2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Codex Vscode             41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 47 mins (20.27%)
+⏱ AI Coding Time: 8 hrs 19 mins (17.5%)
 
-✍️ 52 lines written by AI, 437 lines written by hand (10.63% AI-written)
+✍️ 52 lines written by AI, 795 lines written by hand (6.14% AI-written)
 
-🔤 676,548 Input Tokens, 144,504 Output Tokens
+🔤 697,985 Input Tokens, 149,431 Output Tokens
 
-💵 $5.90 Estimated AI Cost This Week
+💵 $6.06 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 159 AI Prompts
+🧠 13 AI Sessions, 154 AI Prompts
 
 GPT                      44 lines            ████████████████████░░░░░   78.57 % 
 Gemini                   12 lines            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.63% of written lines came from AI
-📝 Concise Prompter — average 333 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 89.61% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.14% of written lines came from AI
+📝 Concise Prompter — average 341 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 94.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               81 repos            ██████████░░░░░░░░░░░░░░░   38.57 % 
-JavaScript               60 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Solidity                 15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Cairo                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               81 repos            ██████████░░░░░░░░░░░░░░░   38.39 % 
+JavaScript               61 repos            ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Solidity                 15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Cairo                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
 
 
- Last Updated on 24/09/2026 22:03:11 UTC
+ Last Updated on 25/09/2026 22:07:52 UTC
 <!--END_SECTION:waka--> 
 
 

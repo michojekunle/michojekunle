@@ -42,19 +42,19 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C644%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C648%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.77%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14142 commits       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌆 Daytime                17593 commits       ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌃 Evening                18116 commits       ████████░░░░░░░░░░░░░░░░░   32.77 % 
-🌙 Night                  5434 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌞 Morning                14142 commits       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+🌆 Daytime                17620 commits       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌃 Evening                18120 commits       ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌙 Night                  5435 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
 
@@ -62,26 +62,26 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    39 hrs 35 mins      ██████████████████░░░░░░░   72.59 % 
-Rust                     5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-TypeScript               4 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Markdown                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Fork                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other                    38 hrs 56 mins      █████████████████░░░░░░░░   69.10 % 
+TypeScript               5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Rust                     5 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Markdown                 2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Fork                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 37 mins      ██████████████░░░░░░░░░░░   57.98 % 
-Arc                      11 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-VS Code                  6 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Antigravity Desktop      2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Codex Vscode             41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Chrome                   23 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.54 % 
+Arc                      20 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   36.76 % 
+VS Code                  7 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Antigravity Desktop      2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Codex Vscode             41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 19 mins (15.27%)
+⏱ AI Coding Time: 8 hrs 19 mins (14.78%)
 
-✍️ 52 lines written by AI, 1,514 lines written by hand (3.32% AI-written)
+✍️ 52 lines written by AI, 1,583 lines written by hand (3.18% AI-written)
 
 🔤 697,985 Input Tokens, 149,431 Output Tokens
 
@@ -93,10 +93,10 @@ GPT                      44 lines            ███████████�
 Gemini                   12 lines            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.32% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.18% of written lines came from AI
 📝 Concise Prompter — average 341 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 97.26% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +112,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:41:30 UTC
+ Last Updated on 27/09/2026 21:49:35 UTC
 <!--END_SECTION:waka--> 
 
 

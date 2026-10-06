@@ -42,19 +42,19 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C684%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C685%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.84%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.04%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14330 commits       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌆 Daytime                17888 commits       ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌃 Evening                18191 commits       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-🌙 Night                  5618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+🌞 Morning                14343 commits       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+🌆 Daytime                17927 commits       ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌃 Evening                18201 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌙 Night                  5621 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 ```
 
 
@@ -62,25 +62,25 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 25 mins      ███████████░░░░░░░░░░░░░░   43.01 % 
-TypeScript               17 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-JavaScript               7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Fork                     4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Bash                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Other                    27 hrs 29 mins      ███████████░░░░░░░░░░░░░░   45.38 % 
+TypeScript               15 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+JavaScript               7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Fork                     4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Dart                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Arc                      26 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   41.02 % 
-Chrome                   22 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.36 % 
-VS Code                  15 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Chrome                   23 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
+Arc                      22 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   37.52 % 
+VS Code                  14 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (10.84%)
+⏱ AI Coding Time: 6 hrs 54 mins (11.42%)
 
-✍️ 15,504 lines written by AI, 3,456 lines written by hand (81.77% AI-written)
+✍️ 15,504 lines written by AI, 3,439 lines written by hand (81.85% AI-written)
 
 🔤 6,852,745 Input Tokens, 1,220,353 Output Tokens
 
@@ -91,10 +91,10 @@ Codex Vscode             0 secs              ░░░░░░░░░░░�
 Opencode-Cli             15,811 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.77% of written lines came from AI
+🤖 AI-Driven — 81.85% of written lines came from AI
 📄 Detailed Prompter — average 1,353 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 25.29% of changed lines were hand-edited
+🚀 High AI Trust — 25.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +110,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 22:07:09 UTC
+ Last Updated on 06/10/2026 00:34:29 UTC
 <!--END_SECTION:waka--> 
 
 

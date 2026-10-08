@@ -42,19 +42,19 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C691%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C701%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14343 commits       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-🌆 Daytime                17944 commits       ████████░░░░░░░░░░░░░░░░░   31.98 % 
-🌃 Evening                18206 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-🌙 Night                  5620 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+🌞 Morning                14356 commits       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+🌆 Daytime                17946 commits       ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌃 Evening                18221 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌙 Night                  5622 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 ```
 
 
@@ -62,38 +62,38 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.43 % 
-TypeScript               14 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Dart                     3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-JavaScript               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Fork                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other                    24 hrs 18 mins      ███████████░░░░░░░░░░░░░░   44.38 % 
+TypeScript               13 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Fork                     7 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Dart                     4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+YAML                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 34 mins      ██████████████░░░░░░░░░░░   57.37 % 
-Arc                      12 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-VS Code                  10 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Chrome                   34 hrs 32 mins      ████████████████░░░░░░░░░   63.05 % 
+Arc                      11 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+VS Code                  9 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 47 mins (12.33%)
+⏱ AI Coding Time: 5 hrs 29 mins (10.01%)
 
-✍️ 10,671 lines written by AI, 3,449 lines written by hand (75.57% AI-written)
+✍️ 4,550 lines written by AI, 3,364 lines written by hand (57.49% AI-written)
 
-🔤 7,462,766 Input Tokens, 1,355,609 Output Tokens
+🔤 5,730,249 Input Tokens, 977,605 Output Tokens
 
-💵 $625.30 Estimated AI Cost This Week
+💵 $393.66 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 39 AI Prompts
+🧠 13 AI Sessions, 27 AI Prompts
 
-Opencode-Cli             10,768 lines        █████████████████████████   100.00 % 
+Opencode-Cli             4,616 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.57% of written lines came from AI
-📚 Verbose Prompter — average 1,860 characters per prompt
+⚖️ Balanced with AI — 57.49% of written lines came from AI
+📚 Verbose Prompter — average 1,516 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 32.06% of changed lines were hand-edited
+🚀 High AI Trust — 48.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +109,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:38:35 UTC
+ Last Updated on 08/10/2026 23:52:35 UTC
 <!--END_SECTION:waka--> 
 
 

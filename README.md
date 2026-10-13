@@ -42,9 +42,9 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C713%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C719%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-312%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,40 +62,40 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 56 mins      ███████████░░░░░░░░░░░░░░   43.81 % 
-TypeScript               11 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Fork                     10 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Dart                     4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Bash                     2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other                    29 hrs 41 mins      ███████████░░░░░░░░░░░░░░   42.87 % 
+TypeScript               14 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Fork                     10 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Dart                     4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Bash                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Chrome                   43 hrs 5 mins       ██████████████████░░░░░░░   70.07 % 
-Claude Code              8 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-VS Code                  5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Arc                      4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Chrome                   48 hrs 53 mins      ██████████████████░░░░░░░   70.62 % 
+Claude Code              10 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+VS Code                  6 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Arc                      4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 32 mins (20.38%)
+⏱ AI Coding Time: 14 hrs 32 mins (21.0%)
 
-✍️ 11,130 lines written by AI, 2,231 lines written by hand (83.3% AI-written)
+✍️ 13,660 lines written by AI, 2,234 lines written by hand (85.94% AI-written)
 
-🔤 8,719,886 Input Tokens, 1,917,794 Output Tokens
+🔤 9,704,474 Input Tokens, 2,130,199 Output Tokens
 
-💵 $385.53 Estimated AI Cost This Week
+💵 $404.13 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 84 AI Prompts
+🧠 9 AI Sessions, 104 AI Prompts
 
-Opus                     10,881 lines        ██████████████████████░░░   87.46 % 
-Opencode-Cli             1,560 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Opus                     13,528 lines        ██████████████████████░░░   89.66 % 
+Opencode-Cli             1,560 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.3% of written lines came from AI
-📄 Detailed Prompter — average 1,194 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 17.94% of changed lines were hand-edited
+🤖 AI-Driven — 85.94% of written lines came from AI
+📄 Detailed Prompter — average 1,225 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 15.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +111,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:35:01 UTC
+ Last Updated on 13/10/2026 01:16:00 UTC
 <!--END_SECTION:waka--> 
 
 

@@ -62,40 +62,39 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.91 % 
-TypeScript               12 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Fork                     10 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Dart                     4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Bash                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Other                    30 hrs 13 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
+TypeScript               13 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Fork                     10 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Dart                     3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Bash                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-Chrome                   47 hrs 23 mins      ██████████████████░░░░░░░   72.31 % 
-Claude Code              11 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-VS Code                  4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Arc                      1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Chrome                   49 hrs 2 mins       ██████████████████░░░░░░░   72.46 % 
+Claude Code              13 hrs 48 mins      █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+VS Code                  3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Arc                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 14 mins (23.26%)
+⏱ AI Coding Time: 15 hrs 55 mins (23.54%)
 
-✍️ 15,151 lines written by AI, 1,167 lines written by hand (92.85% AI-written)
+✍️ 15,598 lines written by AI, 1,039 lines written by hand (93.75% AI-written)
 
-🔤 10,157,274 Input Tokens, 2,096,247 Output Tokens
+🔤 9,111,975 Input Tokens, 2,173,588 Output Tokens
 
-💵 $353.89 Estimated AI Cost This Week
+💵 $306.74 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 129 AI Prompts
+🧠 10 AI Sessions, 146 AI Prompts
 
-Opus                     15,089 lines        ███████████████████████░░   91.03 % 
-Opencode-Cli             1,487 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Opus                     16,997 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.85% of written lines came from AI
-📄 Detailed Prompter — average 1,108 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 7.5% of changed lines were hand-edited
+🤖 AI-Driven — 93.75% of written lines came from AI
+📄 Detailed Prompter — average 929 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 6.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +110,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 23:23:24 UTC
+ Last Updated on 14/10/2026 22:16:30 UTC
 <!--END_SECTION:waka--> 
 
 

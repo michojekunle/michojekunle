@@ -42,9 +42,9 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C727%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C732%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-315%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,25 +62,24 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 13 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
-TypeScript               13 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Fork                     10 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Dart                     3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Bash                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    25 hrs 29 mins      ███████████░░░░░░░░░░░░░░   44.97 % 
+TypeScript               13 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Fork                     5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Bash                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Dart                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-Chrome                   49 hrs 2 mins       ██████████████████░░░░░░░   72.46 % 
-Claude Code              13 hrs 48 mins      █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-VS Code                  3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Arc                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Chrome                   41 hrs 1 min        ██████████████████░░░░░░░   72.38 % 
+Claude Code              13 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+VS Code                  1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 55 mins (23.54%)
+⏱ AI Coding Time: 15 hrs 55 mins (28.1%)
 
-✍️ 15,598 lines written by AI, 1,039 lines written by hand (93.75% AI-written)
+✍️ 15,598 lines written by AI, 204 lines written by hand (98.71% AI-written)
 
 🔤 9,111,975 Input Tokens, 2,173,588 Output Tokens
 
@@ -91,10 +90,10 @@ Arc                      1 hr 41 mins        █░░░░░░░░░░�
 Opus                     16,997 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.75% of written lines came from AI
+🤖 AI-Driven — 98.71% of written lines came from AI
 📄 Detailed Prompter — average 929 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 6.33% of changed lines were hand-edited
+🚀 High AI Trust — 1.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +109,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 22:16:30 UTC
+ Last Updated on 15/10/2026 22:00:03 UTC
 <!--END_SECTION:waka--> 
 
 

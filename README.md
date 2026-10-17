@@ -62,38 +62,38 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 57 mins      █████████████░░░░░░░░░░░░   51.16 % 
-TypeScript               12 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Bash                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Fork                     2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Dart                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Other                    28 hrs 23 mins      ███████████████░░░░░░░░░░   59.46 % 
+TypeScript               9 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Fork                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+CSS                      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Chrome                   38 hrs 18 mins      ██████████████████░░░░░░░   72.69 % 
-Claude Code              12 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-VS Code                  1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Chrome                   37 hrs 58 mins      ████████████████████░░░░░   79.52 % 
+Claude Code              8 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+VS Code                  55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 48 mins (28.09%)
+⏱ AI Coding Time: 10 hrs 6 mins (21.19%)
 
-✍️ 13,285 lines written by AI, 44 lines written by hand (99.67% AI-written)
+✍️ 9,004 lines written by AI, 853 lines written by hand (91.35% AI-written)
 
-🔤 8,629,396 Input Tokens, 1,969,020 Output Tokens
+🔤 5,230,383 Input Tokens, 1,311,055 Output Tokens
 
-💵 $288.12 Estimated AI Cost This Week
+💵 $186.51 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 139 AI Prompts
+🧠 7 AI Sessions, 109 AI Prompts
 
-Opus                     13,508 lines        █████████████████████████   100.00 % 
+Opus                     9,226 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📄 Detailed Prompter — average 876 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🤖 AI-Driven — 91.35% of written lines came from AI
+📄 Detailed Prompter — average 811 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 8.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +109,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:52:25 UTC
+ Last Updated on 17/10/2026 21:07:21 UTC
 <!--END_SECTION:waka--> 
 
 

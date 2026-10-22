@@ -42,11 +42,11 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C745%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C755%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.56%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -54,7 +54,7 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 🌞 Morning                14451 commits       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
 🌆 Daytime                18006 commits       ████████░░░░░░░░░░░░░░░░░   31.90 % 
 🌃 Evening                18331 commits       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-🌙 Night                  5663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+🌙 Night                  5664 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 
 
@@ -62,30 +62,30 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 49 mins      ██████████████░░░░░░░░░░░   57.80 % 
-TypeScript               16 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Markdown                 2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Dart                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-CSS                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    38 hrs 15 mins      ███████████████░░░░░░░░░░   61.79 % 
+TypeScript               16 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Markdown                 2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Dart                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+CSS                      1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Chrome                   39 hrs 51 mins      ███████████████████░░░░░░   74.73 % 
-Claude Code              12 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-VS Code                  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Chrome                   46 hrs 52 mins      ███████████████████░░░░░░   75.70 % 
+Claude Code              14 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+VS Code                  57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 38 mins (27.44%)
+⏱ AI Coding Time: 16 hrs 26 mins (26.55%)
 
 ✍️ 8,525 lines written by AI, 1,046 lines written by hand (89.07% AI-written)
 
-🔤 12,048,717 Input Tokens, 1,862,608 Output Tokens
+🔤 13,362,384 Input Tokens, 2,055,700 Output Tokens
 
-💵 $259.46 Estimated AI Cost This Week
+💵 $282.00 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 162 AI Prompts
+🧠 17 AI Sessions, 173 AI Prompts
 
 Sonnet                   5,190 lines         ██████████████░░░░░░░░░░░   57.34 % 
 Opus                     3,862 lines         ███████████░░░░░░░░░░░░░░   42.66 % 
@@ -93,17 +93,17 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 89.07% of written lines came from AI
-📄 Detailed Prompter — average 803 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 12.64% of changed lines were hand-edited
+📄 Detailed Prompter — average 763 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 12.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               82 repos            ██████████░░░░░░░░░░░░░░░   38.68 % 
-JavaScript               61 repos            ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-Solidity                 15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+TypeScript               83 repos            ██████████░░░░░░░░░░░░░░░   38.97 % 
+JavaScript               61 repos            ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Solidity                 15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 Cairo                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
@@ -111,7 +111,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 22:16:16 UTC
+ Last Updated on 22/10/2026 22:11:58 UTC
 <!--END_SECTION:waka--> 
 
 

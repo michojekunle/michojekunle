@@ -42,9 +42,9 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ### 🏆 Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C760%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C762%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,30 +62,30 @@ Forever curious. Always building. And yes, I write too. 🚀✍️
 
 ```text
 💬 Programming Languages: 
-Other                    38 hrs 59 mins      ██████████████░░░░░░░░░░░   56.86 % 
-TypeScript               17 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Markdown                 4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-HTML                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Dart                     1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Other                    41 hrs 46 mins      ██████████████░░░░░░░░░░░   56.05 % 
+TypeScript               17 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+HTML                     4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Markdown                 4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Dart                     1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Chrome                   46 hrs 41 mins      █████████████████░░░░░░░░   68.10 % 
-Claude Code              20 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-VS Code                  1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Chrome                   50 hrs 34 mins      █████████████████░░░░░░░░   67.85 % 
+Claude Code              22 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   30.33 % 
+VS Code                  1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 14 mins (35.36%)
+⏱ AI Coding Time: 26 hrs 38 mins (35.75%)
 
 ✍️ 8,836 lines written by AI, 218 lines written by hand (97.59% AI-written)
 
-🔤 19,805,148 Input Tokens, 2,889,194 Output Tokens
+🔤 22,578,070 Input Tokens, 3,222,378 Output Tokens
 
-💵 $377.31 Estimated AI Cost This Week
+💵 $413.09 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 254 AI Prompts
+🧠 25 AI Sessions, 273 AI Prompts
 
 Sonnet                   5,501 lines         ███████████████░░░░░░░░░░   58.75 % 
 Opus                     3,862 lines         ██████████░░░░░░░░░░░░░░░   41.25 % 
@@ -93,7 +93,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.59% of written lines came from AI
-📄 Detailed Prompter — average 775 characters per prompt
+📄 Detailed Prompter — average 781 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 4.92% of changed lines were hand-edited
 ```
@@ -111,7 +111,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:22:59 UTC
+ Last Updated on 25/10/2026 21:23:51 UTC
 <!--END_SECTION:waka--> 
 
 
